@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Front-end
 
-<div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=santanaGs&show_icons=true&theme=github_drakula&include_all_commits=true&count_private=true"/>
+<div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=santanaGs&show_icons=true&theme=transparent"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanaGs&layout=compact&langs_count=7&theme=github_drakula"/></div>
   
  <div style="display: inline_block"><br>
