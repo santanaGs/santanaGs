@@ -4,9 +4,9 @@
 
 Sou desenvolvedor apaixonado por tecnologia e atualmente atuo profissionalmente no desenvolvimento de aplicações **Web e Mobile**, com foco principalmente no ecossistema **JavaScript/TypeScript**.
 
-Tenho experiência no desenvolvimento e manutenção de aplicações utilizando **React, React Native, Expo, Next.js, Node.js, PHP e Laravel**, além de trabalhar com bancos de dados e APIs.
+Tenho experiência com **React, React Native, Expo, Next.js, Node.js, PHP e Laravel**, além de bancos de dados, APIs, bibliotecas NPM e Design Systems.
 
-Atualmente, venho aprofundando meus conhecimentos em **arquitetura de software, desenvolvimento Full Stack, aplicações mobile e boas práticas de engenharia de software**.
+Atualmente, além de continuar evoluindo como desenvolvedor Full Stack, estou expandindo meus conhecimentos em **Cybersecurity**, estudando fundamentos de segurança, redes, Linux e práticas de segurança ofensiva através da plataforma **TryHackMe**.
 
 ### 🚀 Tecnologias
 
@@ -30,16 +30,28 @@ Atualmente, venho aprofundando meus conhecimentos em **arquitetura de software, 
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
+### 🔐 Cybersecurity
+
+Atualmente estudando **Cybersecurity** através do **TryHackMe**, com foco em:
+
+* 🌐 Redes e protocolos
+* 🐧 Linux
+* 🔒 Fundamentos de segurança da informação
+* 🕵️ Segurança ofensiva
+* 🛡️ Vulnerabilidades e exploração
+* 💻 Pentest e ambientes de laboratório
+* 🔑 SSH, VPN e ferramentas de segurança
+
 ### 📱 Experiência
 
 * 📱 Desenvolvimento de aplicações mobile com **React Native e Expo**
 * ⚛️ Desenvolvimento de aplicações web com **React, Next.js e TypeScript**
 * 🔌 Desenvolvimento e integração de **APIs REST**
-* 🖥️ Desenvolvimento backend utilizando **Node.js, PHP e Laravel**
-* 🗄️ Experiência com **MySQL** e integração com diferentes serviços
+* 🖥️ Desenvolvimento backend com **Node.js, PHP e Laravel**
+* 🗄️ Experiência com **MySQL**
 * 📦 Desenvolvimento e manutenção de **bibliotecas NPM**
 * 🎨 Experiência com **Design Systems e componentes reutilizáveis**
-* 🚀 Experiência com **builds, publicação e configuração de aplicações mobile**
+* 🚀 Builds e configuração de aplicações mobile
 * 🔄 Participação em projetos de **migração de aplicações nativas para React Native/Expo**
 
 ### 📊 GitHub Stats
@@ -67,4 +79,4 @@ Atualmente, venho aprofundando meus conhecimentos em **arquitetura de software, 
 
 ---
 
-⭐ **Sempre aprendendo, construindo e evoluindo como desenvolvedor.**
+⭐ **Sempre aprendendo, construindo e evoluindo.**
